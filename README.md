@@ -4,51 +4,51 @@ The EduGenie project was documented and submitted through the SkillWallet projec
 
 ### Folder 1 — Brainstorming & Ideation
 
-1. Brainstorming & Idea Prioritization.pdf — 3 Marks
-2. Define Problem Statements.pdf — 3 Marks
-3. Empathy Map.pdf — 4 Marks
+1. Brainstorming & Idea Prioritization.pdf 
+2. Define Problem Statements.pdf 
+3. Empathy Map.pdf 
 
 ### Folder 2 — Requirement Analysis
 
-4. Customer Journey Map.pdf — 2 Marks
-5. Data Flow Diagram.pdf — 4 Marks
-6. Solution Requirements.pdf — 4 Marks
-7. Technology Stack.pdf — 2 Marks
+4. Customer Journey Map.pdf 
+5. Data Flow Diagram.pdf 
+6. Solution Requirements.pdf 
+7. Technology Stack.pdf
 
 ### Folder 3 — Project Design Phase
 
-8. Problem-Solution Fit.pdf — 5 Marks
-9. Proposed Solution.pdf — 5 Marks
-10. Solution Architecture.pdf — 5 Marks
+8. Problem-Solution Fit.pdf 
+9. Proposed Solution.pdf
+10. Solution Architecture.pdf
 
 ### Folder 4 — Project Planning Phase
 
-11. Project Planning.pdf — 5 Marks
+11. Project Planning.pdf
 
 ### Folder 5 — Project Development Phase
 
-12. Code-Layout, Readability and Reusability.pdf — 5 Marks
-13. Coding & Solution.pdf — 5 Marks
-14. No. of Functional Features Including Solution.pdf — 5 Marks
+12. Code-Layout, Readability and Reusability.pdf
+13. Coding & Solution.pdf
+14. No. of Functional Features Including Solution.pdf
 
 ### Folder 6 — Project Testing
 
-15. Performance Testing.pdf — 5 Marks
+15. Performance Testing.pdf
 
 ### Folder 7 — Project Documentation
 
-16. Project Executable Files.pdf — 3 Marks
-17. Sample Project Documentation.pdf — 0 Marks
+16. Project Executable Fils.pdf
+17. Sample Project Documentation.pdf
 
 ### Folder 8 — Project Demonstration
 
-18. Communication.pdf — 1 Mark
-19. Demonstration of Proposed Features.pdf — 1 Mark
-20. Project Demo Planning.pdf — 1 Mark
-21. Scalability & Future Plan.pdf — 1 Mark
-22. Team Involvement in Demonstration.pdf — 1 Mark
+18. Communication.pdf
+19. Demonstration of Proposed Features.pdf
+20. Project Demo Planning.pdf
+21. Scalability & Future Plan.pdf
+22. Team Involvement in Demonstrtion.pdf
 
-**Total SkillWallet Evaluation: 70 Marks**
+
 
 ### EduGenie Team
 
